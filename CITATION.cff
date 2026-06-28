@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated paper and this repository."
+title: "Muscle Fiber Contraction Simulation"
+authors:
+  - family-names: Xu
+    given-names: Jiaxiang
+  - family-names: Chen
+    given-names: Bin
+version: 1.0.0
+date-released: 2026-06-28
+license: MIT
+preferred-citation:
+  type: article
+  title: "Effects of stimulation frequencies on energy efficiency of a muscle fiber during contraction"
+  authors:
+    - family-names: Xu
+      given-names: Jiaxiang
+    - family-names: Chen
+      given-names: Bin
+  journal: "Biophysical Journal"
+  year: 2026
+  doi: "10.1016/j.bpj.2026.06.001"
+

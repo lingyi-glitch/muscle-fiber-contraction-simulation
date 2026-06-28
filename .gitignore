@@ -1,0 +1,24 @@
+# MATLAB temporary and generated files
+*.asv
+*.m~
+*.mat
+*.fig
+*.mex*
+slprj/
+
+# Simulation outputs and logs
+noreal-*/
+examples/output/
+simulation_progress.log
+*.log
+Force=*
+
+# Generated geometry file
+Data4readRigid.txt
+
+# Local backup or comparison files
+MonteCarlo2.m
+
+# Manuscript/proof PDFs are not part of the source-code release by default.
+*.pdf
+
